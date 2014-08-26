@@ -6,8 +6,6 @@ Supports LXC version 1.0 and higher. Depends on net-ssh (https://github.com/net-
 
 ## Installation
  
-!! NOT AT RUBYGEMS.ORG YET !!
- 
 Add this line to your application's Gemfile:
 
 ```ruby
