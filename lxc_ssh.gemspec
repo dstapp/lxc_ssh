@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["David Prandzioch"]
   spec.email         = ["david@backport.net"]
   spec.summary       = %q{LXC CLI wrapper using SSH}
-  spec.description   = %q{{lxc_ssh is a ruby gem for managing lxc host systems over an ssh connection. Supports LXC version 1.0 and higher. Depends on net-ssh.}
+  spec.description   = %q{lxc_ssh is a ruby gem for managing lxc host systems over an ssh connection. Supports LXC version 1.0 and higher. Depends on net-ssh.}
   spec.homepage      = "https://github.com/dprandzioch/lxc_ssh"
   spec.license       = "GPL-2.0"
 
